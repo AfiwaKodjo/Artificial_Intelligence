@@ -1,7 +1,7 @@
 # Membres du Groupe :
 
-- DOSSEH Georges      22012628  
-- KODJO Afiwa Aimée   22312155
+- DOSSEH Georges    
+- KODJO Afiwa Aimée 
 
 == Classes exécutables et démo ==
 [Exercice 8] BlocksworldPlannerDemo.java
