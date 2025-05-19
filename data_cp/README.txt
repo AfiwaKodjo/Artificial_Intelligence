@@ -1,12 +1,12 @@
 # Membres du Groupe :
 
-- KODJO Afiwa Aimée   22312155
-- DOSSEH Georges      22012628  
+- KODJO Afiwa Aimée 
+- DOSSEH Georges 
 
 
  
  ## Mode d'emploi : 
-  - Rassurez vous d'etre à la racine du projet et tapez les commandes suivantes.
+  - Assurez vous d'etre à la racine du projet et tapez les commandes suivantes.
   - Compilation: 
   ```bash
   javac -d build -classpath 'lib/*' $(find src -name "*.java")
